@@ -1,5 +1,0 @@
-com/todolist/TodoListApplication.class
-com/todolist/controller/TodoController.class
-com/todolist/service/TodoService.class
-com/todolist/model/Todo.class
-com/todolist/repository/TodoRepository.class
